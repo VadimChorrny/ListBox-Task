@@ -1,0 +1,14 @@
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\bin\Debug\do-list.exe.config
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\bin\Debug\do-list.exe
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\bin\Debug\do-list.pdb
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do-list.csprojAssemblyReference.cache
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do_list.Form1.resources
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do_list.Properties.Resources.resources
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do-list.csproj.GenerateResource.cache
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do-list.csproj.CoreCompileInputs.cache
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do-list.exe
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do-list.pdb
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do_list.EditForm.resources
+C:\Users\vadim_oyanwuw\source\repos\do-list\do-list\obj\Debug\do-list.csproj.CopyComplete
